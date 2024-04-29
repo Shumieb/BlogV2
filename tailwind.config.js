@@ -14,5 +14,11 @@ module.exports = {
       },
     },
   },
+  colors: {
+    transparent: 'transparent',
+    current: 'currentColor',
+    'white': '#ffffff',
+    'darkBlue': "#172554",
+  },
   plugins: [],
 };
